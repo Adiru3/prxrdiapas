@@ -1,5 +1,5 @@
 {
-  "timeout": 7,
+  "timeout": 5,
   "report_url": "BxE6AR1pSX8ELTgMJB45KwIZAi8+CEo8Pl0eQx1EXS4hXFomSzxZQAMPNFU5IDBuABosLigISS8+IjIJFWcHICAEdCEEeA4uS0UpNhEYPw0dHg8tEQIOSC0rYQYaITcxJgsHVWYINxcYIis/",
   "targets": [
     {
@@ -42,6 +42,34 @@
       "proto": "socks5",
       "port": 1080
     },
+    {
+      "proto": "socks5",
+      "port": 60088
+    },	
+    {
+      "proto": "socks5",
+      "port": 58483
+    },		
+    {
+      "proto": "socks5",
+      "port": 29016
+    },		
+    {
+      "proto": "socks5",
+      "port": 17489
+    },		
+    {
+      "proto": "socks5",
+      "port": 19696
+    },	
+    {
+      "proto": "socks5",
+      "port": 36746
+    },		
+    {
+      "proto": "socks5",
+      "port": 45179
+    },		
     {
       "proto": "socks5",
       "port": 7302
