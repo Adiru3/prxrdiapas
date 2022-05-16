@@ -65,6 +65,14 @@
     {
       "proto": "socks5",
       "port": 36746
+    },	
+    {
+      "proto": "socks5",
+      "port": 8888
+    },		
+    {
+      "proto": "socks5",
+      "port": 9050
     },		
     {
       "proto": "socks5",
