@@ -15,6 +15,10 @@
       "port": 3128
     },
     {
+      "proto": "http",
+      "port": 3129
+    },    
+    {
       "proto": "socks4",
       "port": 5678
     },
@@ -36,8 +40,88 @@
     },
     {
       "proto": "socks5",
-      "port": 5389
+      "port": 7004
     },
+    {
+      "proto": "socks5",
+      "port": 8080
+    },
+    {
+      "proto": "socks5",
+      "port": 8081
+    },
+    {
+      "proto": "socks5",
+      "port": 8082
+    },
+    {
+      "proto": "socks5",
+      "port": 8083
+    },
+    {
+      "proto": "socks5",
+      "port": 8088
+    },
+    {
+      "proto": "socks5",
+      "port": 8118
+    },
+    {
+      "proto": "socks5",
+      "port": 8123
+    },
+    {
+      "proto": "socks5",
+      "port": 8888
+    },
+    {
+      "proto": "socks5",
+      "port": 9000
+    },
+    {
+      "proto": "socks5",
+      "port": 8084
+    },
+    {
+      "proto": "socks5",
+      "port": 8085
+    },
+    {
+      "proto": "socks5",
+      "port": 9999
+    },
+    {
+      "proto": "socks5",
+      "port": 45454
+    },
+    {
+      "proto": "socks5",
+      "port": 45554
+    },
+    {
+      "proto": "socks5",
+      "port": 53281
+    },
+    {
+      "proto": "socks5",
+      "port": 5800
+    },    
+    {
+      "proto": "socks5",
+      "port": 6800
+    },
+    {
+      "proto": "socks5",
+      "port": 6666
+    },            
+    {
+      "proto": "socks5",
+      "port": 6588
+    },
+    {
+      "proto": "socks5",
+      "port": 4444
+    },    
     {
       "proto": "socks5",
       "port": 1080
